@@ -1,0 +1,26 @@
+#image-container img {
+    display: flex;
+    width: 550px;
+    height: auto; 
+}
+
+.move-image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+}
+
+.move-muscle-group-display-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+    text-align: center;
+}
+
+#muscle-group-display-container ul {
+    list-style-type: none; 
+    padding-left: 0;
+    text-transform: lowercase;
+}

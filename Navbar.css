@@ -1,0 +1,17 @@
+#sidetask {
+    display: none; 
+}
+
+.show {
+    display: block; 
+}
+
+.sidetask-box {
+    width: 300px;
+    height: 600px;
+    border: 2px solid black;
+    background-color: black;
+}
+
+
+
